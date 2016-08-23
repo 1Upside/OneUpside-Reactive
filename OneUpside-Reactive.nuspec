@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Eric Brisco</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/1Upside/OneUpside-Reactive/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/1Upside/OneUpside-Reactive</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/21166677</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright © 1Upside 2016</copyright>
+    <tags>ReactiveExtensions Rx Behaviour Behavior Connectable Disposable</tags>
+  </metadata>
+</package>
